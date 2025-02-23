@@ -14,7 +14,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
     'torch>=2.3',
-    'pandas==2.0.1',
+    'pandas>=2.0',
     'einops>=0.8',
     'keras4torch'
   ],
