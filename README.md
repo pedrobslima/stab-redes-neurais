@@ -23,5 +23,5 @@ Caso tenham alguma dúvida pra executar esse script com a base de dados do proje
 ### 📦 Dependências
 Este projeto utiliza **torch** e **keras4torch** para treinamento e avaliação, além de componentes das seguintes implementações:
 - [FtTransformer PyTorch](https://github.com/lucidrains/tab-transformer-pytorch)
-- [Stochastic Transformer Networks](https://github.com/avoskou/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translation)
+- [Stochastic Transformer Networks](https://github.com/avoskou/Stochastic-Transformer-Networks-with-Linear-Competing-Units-Application-to-end-to-end-SL-Translatio)
 - [Keras 4 Torch](https://github.com/blueloveTH/keras4torch)
