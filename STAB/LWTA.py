@@ -3,7 +3,7 @@ from torch.nn import Module, Parameter
 import torch.nn as nn
 import torch.nn.init as init
 import torch.nn.functional as F
-from  STab.utils import concrete_sample, kumaraswamy_sample, bin_concrete_sample, kl_divergence_kumaraswamy
+from  stab.utils import concrete_sample, kumaraswamy_sample, bin_concrete_sample, kl_divergence_kumaraswamy
 import numpy as np
 import weakref
 import pandas as pd

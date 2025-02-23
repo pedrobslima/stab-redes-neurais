@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf8") as fh:
 
 setuptools.setup(
     name="STab",
-    version="0.1",
+    version="0.2",
     description="Transformers com Competição Estocástica para Dados Tabulares",
     long_description=long_description,
     long_description_content_type="text/markdown",

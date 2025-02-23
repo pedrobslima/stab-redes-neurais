@@ -6,8 +6,8 @@ import weakref
 import torch.nn.functional as F
 import torch.nn  as nn
 from torch.jit   import script
-from STab.helper import *
-from  STab.LWTA  import LWTA
+from stab.helper import *
+from  stab.LWTA  import LWTA
 
 
 

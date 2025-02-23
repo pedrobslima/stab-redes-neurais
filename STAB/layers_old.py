@@ -6,7 +6,7 @@ import numpy  as np
 import weakref
 
 
-from  STab.utils import concrete_sample
+from  stab.utils import concrete_sample
 
 class  AttentionBias(nn.Module):
     """
